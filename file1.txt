@@ -1,0 +1,3 @@
+name: chini
+class: TE
+sub: wad
